@@ -1,5 +1,5 @@
 name: test-action
-run-name: ${{ github.actor }} is learning GitHub Actions
+run-name: ${{ github.actor }} à déclencher cette action
 on: [push]
 jobs:
   check-bats-version:
